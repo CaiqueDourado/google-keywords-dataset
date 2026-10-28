@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Google Keywords: search volume, CPC and search patterns for Brazil, US, Spain and Argentina"
+authors:
+  - family-names: Dourado
+    given-names: Caique
+version: 1.0.0
+date-released: 2026-10-29
+license: CC-BY-4.0
+repository-code: "https://github.com/CaiqueDourado/google-keywords-dataset"
+url: "https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset"
+keywords:
+  - keyword-research
+  - search-volume
+  - seo
+  - portuguese
+  - brazil
+  - search-patterns

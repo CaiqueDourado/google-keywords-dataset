@@ -1,0 +1,11 @@
+flowchart LR
+  S1["Ubersuggest 2018<br/>métricas do Keyword Planner<br/>Brasil, 44,6 mi linhas"] --> K[("supernichos.keywords<br/>54,95 mi linhas")]
+  S2["DataForSEO<br/>BR, US, ES, AR<br/>10,3 mi linhas"] --> K
+  K --> A["7 algoritmos de padrões<br/>(C#, 2017–2019)<br/>radicais + troca de entidades"]
+  A --> P[("nlp_padroes<br/>141 mi pares padrão → busca")]
+  P --> C["telas de curadoria<br/>faixas NTILE(20), rótulos à mão"]
+  C --> G[("padroes_agrupado<br/>1,73 mi padrões")]
+  K --> B["build.py (DuckDB)<br/>limpa, tira duplicatas, marca"]
+  G --> B
+  P --> B
+  B --> O["Parquet no Kaggle<br/>amostra CSV no GitHub"]

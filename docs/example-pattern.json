@@ -1,0 +1,146 @@
+{
+ "padrao": "com faz [comida]",
+ "algoritmo": "barbosa",
+ "padrao_pai": null,
+ "busca_lider": "como fazer panqueca",
+ "totais": {
+  "num_buscas": 98097,
+  "volume_total": 12142260,
+  "concorrencia_media": 0.0119,
+  "cpc_medio": 1.61
+ },
+ "faixas_1_a_20": {
+  "volume": 1,
+  "concorrencia": 5,
+  "cpc": 8,
+  "num_buscas": 1
+ },
+ "rotulos_uso": [
+  "AdSense",
+  "Afiliados",
+  "Como Fazer",
+  "Receitas"
+ ],
+ "buscas": [
+  {
+   "palavra": "como fazer arroz",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.13,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer pudim",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.08,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer bolinho de chuva",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.18,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer panqueca",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.07,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer molho branco",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.18,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer pipoca doce",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.06,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer strogonoff de frango",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 60500,
+   "concorrencia": 0.21,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer cuscuz",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 49500,
+   "concorrencia": 0.09,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer bolo de cenoura",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 49500,
+   "concorrencia": 0.21,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer chocolate quente",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 40500,
+   "concorrencia": 0.04,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer macarrão",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 40500,
+   "concorrencia": 0.05,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer mousse de maracujá",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 40500,
+   "concorrencia": 0.03,
+   "cpc": 0.01
+  },
+  {
+   "palavra": "como fazer arroz doce",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 33100,
+   "concorrencia": 0.02,
+   "cpc": 0.02
+  },
+  {
+   "palavra": "como fazer brownie",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 33100,
+   "concorrencia": 0.02,
+   "cpc": 0.05
+  },
+  {
+   "palavra": "como fazer gelatina",
+   "mercado": "BR",
+   "fonte": "ubersuggest_2018",
+   "volume": 33100,
+   "concorrencia": 0,
+   "cpc": 0
+  }
+ ]
+}

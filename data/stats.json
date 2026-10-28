@@ -1,0 +1,92 @@
+{
+ "palavras_chave": 37961526,
+ "linhas_brutas": 54950064,
+ "por_mercado": {
+  "BR": 33289393,
+  "US": 2005560,
+  "ES": 1434325,
+  "AR": 1232248
+ },
+ "por_fonte": {
+  "dataforseo": 6231364,
+  "ubersuggest_2018": 31730162
+ },
+ "com_volume": 24946887,
+ "volume_total": 24972617941,
+ "padroes": 2040760,
+ "padroes_algoritmos": {
+  "viana": 779223,
+  "barbosa": 466369,
+  "rosa": 254802,
+  "vilela": 202320,
+  "figueredo": 28522
+ },
+ "padroes_com_entidade": 749693,
+ "padroes_rotulados": 154654,
+ "rotulos_uso_top": {
+  "AdSense": 135336,
+  "Afiliados": 88659,
+  "Produtos": 48065,
+  "App": 41188,
+  "Veículos": 14786,
+  "Como Fazer": 10347,
+  "Preços": 7717,
+  "Frases": 7636,
+  "Filmes": 7448,
+  "TV": 6240,
+  "Previsão do Tempo": 6089,
+  "Locais próximos": 5712,
+  "Assistir": 5099,
+  "Dúvida": 4967,
+  "Concurso Público": 4012,
+  "Medicamento": 3628,
+  "Receitas": 3390,
+  "Mensagens": 3259,
+  "Músicas": 3247,
+  "Telefone": 3194,
+  "Qual Melhor Produto": 2667,
+  "Empregos": 2596,
+  "Download": 2594,
+  "Medicamento para": 2591,
+  "Valor do Produto": 2490,
+  "Barato": 2392,
+  "Esportes": 2286,
+  "Baixar": 2107,
+  "Letras de Música": 2052,
+  "Roupas": 2020
+ },
+ "pares_padrao_busca": 137974529,
+ "perguntas": 4053470,
+ "adulto": 39496,
+ "cpc_percentis_por_fonte_mercado": {
+  "dataforseo/AR": [
+   0.04,
+   0.21,
+   0.96
+  ],
+  "dataforseo/BR": [
+   0.11,
+   0.52,
+   2.96
+  ],
+  "dataforseo/ES": [
+   0.24,
+   0.9,
+   3.22
+  ],
+  "dataforseo/US": [
+   0.81,
+   3.02,
+   12.13
+  ],
+  "ubersuggest_2018/BR": [
+   1.63,
+   33.0,
+   114.0
+  ]
+ },
+ "concorrencia_media_por_fonte": {
+  "dataforseo": 0.1899,
+  "ubersuggest_2018": 0.2599
+ }
+}
