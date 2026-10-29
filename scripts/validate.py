@@ -22,7 +22,7 @@ def check(ok: bool, msg: str) -> None:
 
 
 def one(sql: str):
-    return duckdb.sql(sql).fetchone()[0]
+    return duckdb.sql(sql).fetchall()[0][0]
 
 
 kw, pd, pa = (S / "palavras_chave_sample.csv").as_posix(), (S / "padroes_sample.csv").as_posix(), (S / "padroes_algoritmos_sample.csv").as_posix()
