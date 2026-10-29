@@ -161,6 +161,7 @@ flowchart LR
 
 ## Related
 
+- Article: [Almost 400 million search patterns, five databases, and what actually worked](https://medium.com/@caiquedourado/almost-400-million-search-patterns-five-databases-and-what-actually-worked-139cb4a28c4e) (Medium): how this dataset was built in 2018 and rebuilt in 2026.
 - Article: [Seven ways to turn millions of Google searches into page templates](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f) (Medium): the algorithms that made this dataset's patterns.
 - [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer): the entity dictionary behind the `[tipo]` patterns, cleaned: 307 thousand entities with their types ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer)).
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): the seven pattern algorithms as a library (Python and .NET), with a 2019 mode that reproduces this dataset's patterns.
