@@ -4,6 +4,7 @@
 [![Dados: CC BY 4.0](https://img.shields.io/badge/dados-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA.md)
 [![Código: MIT](https://img.shields.io/badge/c%C3%B3digo-MIT-blue.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF.svg)](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)
+[![Kaggle notebook](https://img.shields.io/badge/Kaggle-notebook-20BEFF.svg)](https://www.kaggle.com/code/caiquedourado/notebook-google-keywords-dataset)
 
 [Read in English](README.md)
 
@@ -165,7 +166,8 @@ flowchart LR
 
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): chaves fonéticas e casamento de nomes em português, a mesma família de técnicas usada para agrupar buscas.
 - [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text): ferramentas de texto em português para .NET, com extração de palavras-chave RAKE.
-- [catalogo-produtos-ecommerce-brasil](https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil): os produtos de que muitas dessas buscas falam.
+- [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): os produtos de que muitas dessas buscas falam.
+- [dicionario-portugues](https://github.com/CaiqueDourado/dicionario-portugues): 272 mil palavras do português com chaves fonéticas, rimas e textos gerados por IA ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/dicionario-portugues)); a coluna `ocorrencias` conta estas buscas.
 
 ## Licença
 
