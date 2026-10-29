@@ -161,6 +161,7 @@ flowchart LR
 
 ## Related
 
+- Article: [Seven ways to turn millions of Google searches into page templates](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f) (Medium): the algorithms that made this dataset's patterns.
 - [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer): the entity dictionary behind the `[tipo]` patterns, cleaned: 307 thousand entities with their types ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer)).
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): the seven pattern algorithms as a library (Python and .NET), with a 2019 mode that reproduces this dataset's patterns.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): phonetic keys and matching for Portuguese, the same family of techniques used to group searches.
