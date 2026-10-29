@@ -165,6 +165,7 @@ flowchart LR
 
 ## Relacionados
 
+- Artigo: [De 1,7 milhão de padrões de busca a 83 sites: como escolhi o que construir](https://github.com/CaiqueDourado/articles/blob/main/choosing-sites/README.pt-BR.md): como os rótulos deste dataset escolheram os sites ([em inglês no Medium](https://medium.com/@caiquedourado/from-1-7-million-search-patterns-to-83-sites-how-i-chose-what-to-build-f764687dfe12)).
 - Artigo: [Quase 400 milhões de padrões de busca, cinco bancos de dados e o que de fato funcionou](https://github.com/CaiqueDourado/articles/blob/main/scale-search-patterns/README.pt-BR.md): como este dataset foi feito em 2018 e refeito em 2026 ([em inglês no Medium](https://medium.com/@caiquedourado/almost-400-million-search-patterns-five-databases-and-what-actually-worked-139cb4a28c4e)).
 - Artigo: [Sete jeitos de transformar milhões de buscas do Google em modelos de página](https://github.com/CaiqueDourado/articles/blob/main/seven-ways-search-patterns/README.pt-BR.md): os algoritmos que fizeram os padrões deste dataset ([em inglês no Medium](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f)).
 - [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer): o dicionário de entidades por trás dos padrões com `[tipo]`, limpo: 307 mil entidades com seus tipos ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer)).
