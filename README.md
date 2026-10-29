@@ -161,6 +161,7 @@ flowchart LR
 
 ## Related
 
+- Article: [What I learned squeezing 50 million searches](https://github.com/CaiqueDourado/articles/blob/main/fifty-million-searches/README.md): the 2023 spreadsheet that became SuperNichos, and three numbers it got wrong.
 - Article: [From 1.7 million search patterns to 83 sites: how I chose what to build](https://medium.com/@caiquedourado/from-1-7-million-search-patterns-to-83-sites-how-i-chose-what-to-build-f764687dfe12) (Medium): how the labels in this dataset chose the sites.
 - Article: [Almost 400 million search patterns, five databases, and what actually worked](https://medium.com/@caiquedourado/almost-400-million-search-patterns-five-databases-and-what-actually-worked-139cb4a28c4e) (Medium): how this dataset was built in 2018 and rebuilt in 2026.
 - Article: [Seven ways to turn millions of Google searches into page templates](https://medium.com/@caiquedourado/seven-ways-to-turn-millions-of-google-searches-into-page-templates-3671235eac0f) (Medium): the algorithms that made this dataset's patterns.
