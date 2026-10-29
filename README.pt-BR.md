@@ -147,7 +147,8 @@ flowchart LR
   ficando a linha com volume.
 - **Padrões.** As palavras são reduzidas ao radical e os padrões têm de 2 a 5 palavras. Viana pega prefixos, Vilela
   sequências de palavras; Barbosa, Figueredo e Rosa fazem o mesmo depois de trocar as entidades por um dicionário de
-  ~316 mil entidades (lugares, pessoas, marcas, produtos, comidas…). Oliveira (palavras saltadas) e Dourado
+  ~316 mil entidades (lugares, pessoas, marcas, produtos, comidas…), publicado limpo como
+  [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer). Oliveira (palavras saltadas) e Dourado
   (permutações) foram usados em rodadas anteriores e não estão na tabela agrupada.
 - **Buscas adultas** (39.496) ficam, marcadas em `adulto`, para quem quiser filtrar; as amostras não têm nenhuma.
 - **Exportação** ([scripts/exportar_supernichos.py](scripts/exportar_supernichos.py)): cada tabela do SQL Server é lida
@@ -164,6 +165,7 @@ flowchart LR
 
 ## Relacionados
 
+- [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer): o dicionário de entidades por trás dos padrões com `[tipo]`, limpo: 307 mil entidades com seus tipos ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer)).
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): os sete algoritmos de padrões como biblioteca (Python e .NET), com um modo 2019 que reproduz os padrões deste dataset.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): chaves fonéticas e casamento de nomes em português, a mesma família de técnicas usada para agrupar buscas.
 - [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text): ferramentas de texto em português para .NET, com extração de palavras-chave RAKE.

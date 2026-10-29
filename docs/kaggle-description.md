@@ -50,6 +50,8 @@ Scripts, method, limits and the study in Portuguese and English: **https://githu
 
 The seven pattern algorithms are available as a library, in Python and .NET, with a 2019 mode that reproduces these patterns: **https://github.com/CaiqueDourado/search-pattern-miner**
 
+The entity dictionary behind the `[tipo]` patterns, cleaned (307 thousand entities with their types): **https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer**
+
 ## License
 
 Compilation, patterns, labels and derived columns: CC BY 4.0. The search metrics were recorded from Ubersuggest (2018) and DataForSEO; check those providers' terms before commercial use of the metrics. Version 1.0.0. Author: Caique Dourado.

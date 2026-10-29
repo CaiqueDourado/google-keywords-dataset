@@ -143,7 +143,8 @@ flowchart LR
   doubled on import fixed; 9,220 searches damaged into `??` removed; duplicates (same market, same search ignoring
   case and spaces) collapsed from 54.95 million rows to 37.96 million, keeping the row with volume.
 - **Patterns.** Words are stemmed and patterns have 2–5 words. Viana takes prefixes, Vilela runs of words; Barbosa,
-  Figueredo and Rosa do the same after replacing entities with a dictionary of ~316 thousand entities (places, people, brands, products, foods…). Oliveira (skip-grams)
+  Figueredo and Rosa do the same after replacing entities with a dictionary of ~316 thousand entities (places, people, brands, products, foods…), published cleaned as
+  [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer). Oliveira (skip-grams)
   and Dourado (word permutations) were used in earlier rounds and are not in the grouped table.
 - **Adult searches** (39,496) are kept and flagged in `adulto`, so they can be filtered out; the samples have none.
 - **Exports** ([scripts/exportar_supernichos.py](scripts/exportar_supernichos.py)) read each SQL Server table once,
@@ -160,6 +161,7 @@ flowchart LR
 
 ## Related
 
+- [portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer): the entity dictionary behind the `[tipo]` patterns, cleaned: 307 thousand entities with their types ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer)).
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): the seven pattern algorithms as a library (Python and .NET), with a 2019 mode that reproduces this dataset's patterns.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): phonetic keys and matching for Portuguese, the same family of techniques used to group searches.
 - [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text): Portuguese text tools for .NET, including RAKE keyword extraction.
