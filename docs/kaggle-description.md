@@ -48,6 +48,8 @@ Batch 1 (Brazil only) came from Ubersuggest in 2018, which served Google Keyword
 
 Scripts, method, limits and the study in Portuguese and English: **https://github.com/CaiqueDourado/google-keywords-dataset**
 
+The seven pattern algorithms are available as a library, in Python and .NET, with a 2019 mode that reproduces these patterns: **https://github.com/CaiqueDourado/search-pattern-miner**
+
 ## License
 
 Compilation, patterns, labels and derived columns: CC BY 4.0. The search metrics were recorded from Ubersuggest (2018) and DataForSEO; check those providers' terms before commercial use of the metrics. Version 1.0.0. Author: Caique Dourado.

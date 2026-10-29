@@ -160,6 +160,7 @@ flowchart LR
 
 ## Related
 
+- [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): the seven pattern algorithms as a library (Python and .NET), with a 2019 mode that reproduces this dataset's patterns.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): phonetic keys and matching for Portuguese, the same family of techniques used to group searches.
 - [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text): Portuguese text tools for .NET, including RAKE keyword extraction.
 - [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): the products many of these searches are about.

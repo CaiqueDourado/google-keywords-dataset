@@ -164,6 +164,7 @@ flowchart LR
 
 ## Relacionados
 
+- [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): os sete algoritmos de padrões como biblioteca (Python e .NET), com um modo 2019 que reproduz os padrões deste dataset.
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): chaves fonéticas e casamento de nomes em português, a mesma família de técnicas usada para agrupar buscas.
 - [PtBr.Text](https://github.com/CaiqueDourado/PtBr.Text): ferramentas de texto em português para .NET, com extração de palavras-chave RAKE.
 - [brazilian-ecommerce-products](https://github.com/CaiqueDourado/brazilian-ecommerce-products): os produtos de que muitas dessas buscas falam.
